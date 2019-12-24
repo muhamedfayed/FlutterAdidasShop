@@ -1,3 +1,4 @@
+import 'package:adidas/screens/Splash.dart';
 import 'package:adidas/utill/const.dart';
 import 'package:flutter/material.dart';
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'app',
       theme: Constants.lightTheme,
-      home: Home(),
+      home: Splash(),
       debugShowCheckedModeBanner: false,
     );
   }
