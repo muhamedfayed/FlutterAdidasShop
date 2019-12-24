@@ -1,16 +1,8 @@
-# adidas
+# adidas Flutter app
 
-A new Flutter application.
 
-## Getting Started
+![Image of Splash](https://i.ibb.co/JszF5Nb/81216461-619908765437519-8758468782277525504-n.png)
 
-This project is a starting point for a Flutter application.
+![Image of Home](https://i.ibb.co/RBTVmqJ/80216130-797976063963378-5160218170362953728-n.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image of Details](https://i.ibb.co/Gx3Jn0D/80411769-2618513354901149-3147961030806601728-n.png)
